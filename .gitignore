@@ -1,0 +1,5 @@
+# ignore .blend blender files
+*.blend
+*.blend*
+# ignore .stl files
+*.stl
